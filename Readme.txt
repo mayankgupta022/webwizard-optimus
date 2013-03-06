@@ -1,0 +1,19 @@
+Url: http://optimus-webwizard.appspot.com
+
+List of Api used:
+1. Picasa API- For gallery images
+2. Charts API- For displaying charts in /donate
+3. Spreadsheets API-To get page content from google spreadsheets
+4. Youtube API-To get links of videos from a channel
+5. Translate API-To translate website into multiple languages
+6. Fonts API-To use google fonts
+7. Analytics API-For Google analytics
+8. Maps API/Tool-To display google map in /contact
+
+Website is hosted on google app engine in python.
+
+Source of project available at: http://code.google.com/p/optimus-web-wizard/
+
+The gmail id used for authorizing access to spreadsheet is:
+Username: webwizarddummy@gmail.com
+Password: webwizarddummy
